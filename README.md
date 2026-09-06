@@ -29,3 +29,16 @@ A C program implementing a singly linked list with insert, delete, and traversal
  
 ## Contact
 - Email: hasnainhayat067@gmail.com
+
+## Hobbies & Extracurriculars
+1. Reading
+   - [x] Finish 2 books this month
+   - [ ] Start a book club
+2. Playing Football
+   - [x] Improve my football skills
+   - [ ] Practice regularly
+   - [ ] Participate in a university football tournament
+3. Learning Programming
+   - [x] Learn the basics of C programming
+   - [ ] Build more programming projects
+   - [ ] Learn Python
